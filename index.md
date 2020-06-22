@@ -10,4 +10,4 @@ wie es weiter geht.
 * mag guten Essen
 * trinkt Whiskey
 
-> Nur der Erfolg zaehlt!
+> Nur der Erfolg zaehlt
