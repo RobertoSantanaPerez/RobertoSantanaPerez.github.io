@@ -9,3 +9,5 @@ wie es weiter geht.
 * liebt perl, python und bash
 * mag guten Essen
 * trinkt Whiskey
+
+> Nur der Erfolg zaehlt!
