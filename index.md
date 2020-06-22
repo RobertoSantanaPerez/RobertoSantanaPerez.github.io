@@ -11,5 +11,5 @@ wie es weiter geht.
 * trinkt Whiskey
 
 > Nur der Erfolg zaehlt
-> der Versuch ist egal.
+> der Versuch ist egal
 
