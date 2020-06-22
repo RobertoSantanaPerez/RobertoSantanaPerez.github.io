@@ -13,3 +13,4 @@ wie es weiter geht.
 > Nur der Erfolg zaehlt
 > der Versuch ist egal
 
+<img src="800px-Simson_KR50.jpg" />
